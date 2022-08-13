@@ -1,4 +1,4 @@
-# GraphQL-With-Full-Stack-MERN-Project-main
+# GraphQL-With-Full-Stack-MERN-Project-main - practiecs
 
 NODE_ENV = 'development'
 PORT = 8000
